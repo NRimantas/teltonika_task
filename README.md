@@ -5,6 +5,9 @@ Implement a function that receives two IPv4 addresses and returns the number of 
 them (including the first one, excluding the last
 All inputs must be valid IPv4 addresses in the form of strings. The last address must be greater than
 the first one.
+# Extra:
+The program could also receive a IPv6 addresses for comparison. Provided types could be
+differentiated by an extra argument.
 
 ## Launch function
 git clone https://github.com/NRimantas/teltonika_task.git
